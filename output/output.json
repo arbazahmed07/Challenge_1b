@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Learn Acrobat - Create and Convert_1 copy.pdf",
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Lunch Ideas.pdf",
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "timestamp": "2025-07-27T17:01:42.294344"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 9,
+      "section_title": "Conclusion \nPacking for a trip to the South of Fra...",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 1,
+      "section_title": "The Ultimate South of France Travel Companion: You...",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 5,
+      "section_title": "• \nAdditional Tips: Download maps and travel guide...",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 13,
+      "section_title": "• \nHôtel Métropole Monte-Carlo (Monaco): A luxurio...",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 14,
+      "section_title": "Conclusion \nThe South of France oﬀers a wide range...",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 9,
+      "refined_text": "Conclusion \nPacking for a trip to the South of France involves considering the season, planned activities, \nand the needs of both adults and children. By following this comprehensive guide and \nincorporating the tips and tricks provided, you'll be well-prepared for a comfortable and \nenjoyable trip. Remember to pack light, versatile clothing, and essential items to make the \nmost of your travel experience. Bon voyage!"
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 1,
+      "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, \nPlanning, and Exploring \nIntroduction \nPlanning a trip to the South of France requires thoughtful preparation to ensure a \ncomfortable and enjoyable experience. This guide covers everything from packing essentials \nto travel tips, catering to all seasons and various activities. Whether you're traveling solo, with \nkids, or in a group, this guide will help you make the most of your trip."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 5,
+      "refined_text": "• \nAdditional Tips: Download maps and travel guides to your devices for oﬄine use. \nConsider bringing a portable Wi-Fi hotspot for reliable internet access."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 13,
+      "refined_text": "• \nHôtel Métropole Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a \nworld-class spa, and several Michelin-starred restaurants. The refined elegance and \nexceptional service make it a top choice for luxury travelers."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 14,
+      "refined_text": "Conclusion \nThe South of France oﬀers a wide range of dining and accommodation options to suit every \nbudget and preference. Whether you're looking for budget-friendly eateries, family-friendly \nspots, upscale dining, or luxurious experiences, this guide will help you find the perfect places \nto eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming \nvillages of Provence, the South of France promises an unforgettable travel experience. Bon \nvoyage!"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+PyMuPDF
+sentence-transformers==2.2.2
+scikit-learn
+torch
+torchvision
+huggingface-hub
+huggingface-hub
